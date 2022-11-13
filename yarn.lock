@@ -7,7 +7,7 @@ __metadata:
 
 "repro-lib-1@git+ssh://git@github.com:JMS-1/repro-lib-1.git#master":
   version: 1.0.0
-  resolution: "repro-lib-1@git+ssh://git@github.com:JMS-1/repro-lib-1.git#commit=00541eef7812916bc81b142a36125b7eca7b4452"
+  resolution: "repro-lib-1@git+ssh://git@github.com:JMS-1/repro-lib-1.git#commit=1531c6970cf0689d4ab90d2d529f9f48cecbe92d"
   checksum: b68d84e7ab9fa25072fe8961dfd1a4ca42109bfe1902bd0f4201a97358a6fdeebe1b13416ad331570c74eee87724250d84cdfe8e43b496f8c986baab32961beb
   languageName: node
   linkType: hard
