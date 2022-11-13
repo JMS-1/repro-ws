@@ -1,0 +1,6 @@
+[submodule "repro-lib-1"]
+	path = repro-lib-1
+	url = git@github.com:JMS-1/repro-lib-1
+[submodule "repro-lib-2"]
+	path = repro-lib-2
+	url = git@github.com:JMS-1/repro-lib-2
